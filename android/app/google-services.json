@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "833484254428",
+    "project_id": "firealertapp-1639f",
+    "storage_bucket": "firealertapp-1639f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833484254428:android:4ebacd8517ab39009a5819",
+        "android_client_info": {
+          "package_name": "com.example.firealertapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD65GiwJoTvyYlqngdp3aVwZ6JOI38PScA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,2 @@
+C:/Fire Alert App/firealertapp/android/app/.cxx/Debug/16e1k345/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Fire Alert App/firealertapp/android/app/.cxx/Debug/16e1k345/arm64-v8a/CMakeFiles/rebuild_cache.dir
