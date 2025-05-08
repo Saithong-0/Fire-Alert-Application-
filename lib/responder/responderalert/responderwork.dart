@@ -186,7 +186,7 @@ class _ResponderWorkState extends State<ResponderWork> {
       String url = 'https://api.openrouteservice.org/v2/directions/driving-car?'
           'start=${_currentLocation!.longitude},${_currentLocation!.latitude}'
           '&end=${_destinationLocation!.longitude},${_destinationLocation!.latitude}'
-          '&api_key=5b3ce3597851110001cf624898084a1f672646ed987b869731251f84';
+          '&api_key=Your api';
 
       var response = await http.get(Uri.parse(url));
       Map<String, dynamic> decodedResponse = json.decode(response.body);
