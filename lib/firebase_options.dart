@@ -41,8 +41,8 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAxDYLmZlvzJgyrby_plHvSFLKXqZNweGI',
-    appId: '1:833484254428:web:f02f71bab2973db59a5819',
+    apiKey: 'Your api key',
+    appId: 'Your appId',
     messagingSenderId: '833484254428',
     projectId: 'firealertapp-1639f',
     authDomain: 'firealertapp-1639f.firebaseapp.com',
@@ -51,16 +51,16 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyD65GiwJoTvyYlqngdp3aVwZ6JOI38PScA',
-    appId: '1:833484254428:android:4ebacd8517ab39009a5819',
+    apiKey: ''Your api key',
+    appId: 'Your appId',
     messagingSenderId: '833484254428',
     projectId: 'firealertapp-1639f',
     storageBucket: 'firealertapp-1639f.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyD49J99-sYJiqItD-dhA2PC_SCWq_Yw-TA',
-    appId: '1:833484254428:ios:6d1434be42b207c79a5819',
+    apiKey: 'Your api key',
+    appId: 'Your appId',
     messagingSenderId: '833484254428',
     projectId: 'firealertapp-1639f',
     storageBucket: 'firealertapp-1639f.appspot.com',
@@ -68,8 +68,8 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyD49J99-sYJiqItD-dhA2PC_SCWq_Yw-TA',
-    appId: '1:833484254428:ios:6d1434be42b207c79a5819',
+    apiKey: 'Your api key',
+    appId: 'Your appId',
     messagingSenderId: '833484254428',
     projectId: 'firealertapp-1639f',
     storageBucket: 'firealertapp-1639f.appspot.com',
@@ -77,8 +77,8 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyAxDYLmZlvzJgyrby_plHvSFLKXqZNweGI',
-    appId: '1:833484254428:web:c5df6a0776474ec39a5819',
+    apiKey: 'Your api key',
+    appId: 'Your appId',
     messagingSenderId: '833484254428',
     projectId: 'firealertapp-1639f',
     authDomain: 'firealertapp-1639f.firebaseapp.com',
